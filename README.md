@@ -72,5 +72,5 @@ Rode o projeto e teste os endpoint via swagger
 ## 🎥 Demonstração
 
 <p align="center">
-  <img src="assets/demo-api.gif" width="800"/>
+  <img src="Assets/DemonstracaoApiCrud.gif" width="800"/>
 </p>
